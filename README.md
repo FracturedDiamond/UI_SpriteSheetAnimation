@@ -1,1 +1,1 @@
-# UI_SpriteSheetAnimation
+# UI Sprite Sheet Animation
